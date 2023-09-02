@@ -1,6 +1,7 @@
+import { Form } from '../src/elements/Form/';
 
 const App = () => {
-  return <>form </>;
+  return <Form />;
 };
 
 export default App;
