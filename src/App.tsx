@@ -1,7 +1,7 @@
-import { Form } from '../src/elements/Form/';
+import { NewForm } from './elements/Form';
 
 const App = () => {
-  return <Form />;
+  return <NewForm />;
 };
 
 export default App;
